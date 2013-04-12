@@ -22,6 +22,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UncmVideo/video/FPTableCellView.xib" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UncmVideo/video/FPTableNoDescCellView.xib" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UncmVideo/video/LoginViewController.xib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UncmVideo/video/FirstPageViewController.m" afterPath="$PROJECT_DIR$/UncmVideo/video/FirstPageViewController.m" />
     </list>
     <ignored path="UncmVideo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,7 +45,7 @@
       <file leaf-file-name="FirstPageViewController.m" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UncmVideo/video/FirstPageViewController.m">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="232" column="61" selection-start="12631" selection-end="12639" vertical-scroll-proportion="0.15826087">
+            <state line="81" column="48" selection-start="6279" selection-end="6279" vertical-scroll-proportion="0.45217392">
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -85,8 +86,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="51" />
-    <option name="y" value="33" />
+    <option name="x" value="359" />
+    <option name="y" value="84" />
     <option name="width" value="1196" />
     <option name="height" value="736" />
   </component>
@@ -116,7 +117,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="DirectoryView.Xcode" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -195,18 +195,19 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="DirectoryView.Xcode" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="preferences.pluginManager" />
-    <property name="restartRequiresConfirmation" value="false" />
+    <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pic/magazine_default_error.jpg" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="FullScreen" value="false" />
     <property name="OBJC.PRESERVED_TARGET_SELECTION" value="UncmVideo" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager" selected="Application.UncmVideo">
     <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PROJECT_NAME="UncmVideo" TARGET_NAME="UncmVideo" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="UncmVideo" RUN_TARGET_NAME="UncmVideo" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
@@ -256,13 +257,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="51" y="33" width="1196" height="736" extended-state="1" />
+    <frame x="359" y="84" width="1196" height="736" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23529412" sideWeight="0.64552844" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23529412" sideWeight="0.34308943" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23529412" sideWeight="0.6504065" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23529412" sideWeight="0.3382114" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48617887" sideWeight="0.9993921" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -388,6 +389,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/UncmVideo/video/FirstPageViewController.m">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="232" column="61" selection-start="12639" selection-end="12639" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UncmVideo/video/FirstPageViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="226" column="33" selection-start="12344" selection-end="12351" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#0#35#0" expanded="true" />
@@ -424,18 +434,14 @@
     <entry file="file://$PROJECT_DIR$/UncmVideo/video/FirstPageViewController.h">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="101" selection-start="380" selection-end="380" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#119#152#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/classes/imageDownloader/ImageDownloader.m">
       <provider selected="true" editor-type-id="text-editor">
         <state line="56" column="32" selection-start="1355" selection-end="1355" vertical-scroll-proportion="-0.2513369">
-          <folding>
-            <element signature="e#180#203#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -455,7 +461,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UncmVideo/video/FirstPageViewController.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="232" column="61" selection-start="12631" selection-end="12639" vertical-scroll-proportion="0.15826087">
+        <state line="81" column="48" selection-start="6279" selection-end="6279" vertical-scroll-proportion="0.45217392">
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
