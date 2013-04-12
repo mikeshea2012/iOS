@@ -79,7 +79,7 @@
     //表头的设置
     CommonHeaderView *commonHeaderView = [[[CommonHeaderView alloc] initWitHighlightIndex:1] autorelease];
     commonHeaderView.delegate = self;
-    NSString *titleName = @"英超视频";
+    NSString *titleName = @"英超视频_github测试";
     if ([GlobalSetting is_in_debug_mode]){
         titleName = @"英超视频_测试版本";
     }
